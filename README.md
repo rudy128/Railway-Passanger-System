@@ -68,7 +68,7 @@ Jane Smith,Female,123457,Station B,Station C,9876543211,150,2B
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is not licensed under the MIT License yet.
 
 ## Acknowledgments
 
